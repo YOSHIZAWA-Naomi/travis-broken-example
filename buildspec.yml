@@ -1,0 +1,6 @@
+Version: 0.2
+phases:
+ build:
+   commands:
+     - echo 'test!'
+     phpunit Test.php
