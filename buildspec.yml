@@ -3,4 +3,4 @@ phases:
  build:
    commands:
      - echo 'test!'
-     phpunit Test.php
+     - phpunit Test.php
